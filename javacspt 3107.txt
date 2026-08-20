@@ -1,0 +1,15 @@
+wrappers classes methods are almost static
+Integers
+ constants:
+         MAX_VAL
+         MIN_VAL
+Methods:
+ equals(),
+ hashcode(),
+static{}
+Integer.parseInt
+
+
+      
+
+
