@@ -10,7 +10,7 @@ class Dog extends Animal
 @over
 void eat()
 
-{
+{git config --global --unset credential.helper
 System.out.println("dog is eating...");
 }
 public static void main(String args[])
